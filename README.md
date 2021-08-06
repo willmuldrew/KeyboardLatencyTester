@@ -7,3 +7,5 @@ Components:
  * Arduino Uno
  * USB Host Shield 2
  * LED + resistor (pin 7)
+
+Note - I needed to add 3 solder bridges to get the USB host shield working
